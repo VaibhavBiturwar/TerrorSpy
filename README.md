@@ -1,3 +1,7 @@
+<img src="https://github.com/VaibhavBiturwar/TerrorSpy/blob/main/Thumbnail.png">
+
+
+
 **Introduction**<br>
 This project is a core java-based desktop application that can secretly track users' activities, record screenshots and keys typed by the user. It can also detect if the screen of the user is locked, logged off, or has turned into screensaver mode and continue to silently monitor the system. The application is still in the beta phase.
 
